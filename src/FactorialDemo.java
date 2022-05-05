@@ -15,7 +15,7 @@ public class FactorialDemo {
             }
         }
         public static void main(String[] args) {
-            int n=4, int i, fact=1;
+            int n=4, i, fact=1;
           fact=  factorial(4);
             System.out.println(fact);
 
